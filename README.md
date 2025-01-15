@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishmamb
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C
+- 🌱 C/C++,Java,MySQL
   
 
 <!---
